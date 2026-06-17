@@ -1,0 +1,8 @@
+CASE: Attack Scenario (Eavesdropper Present)
+
+Starting Quantum Key Distribution...
+Raw qubits sent     : 256
+Sifted key length   : 130
+Error Rate (QBER)   : 0.22
+Intrusion Detected!
+Quantum Key Rejected. A new key exchange would be required.

@@ -1,0 +1,9 @@
+CASE: Normal Communication (No Attack)
+
+Starting Quantum Key Distribution...
+Raw qubits sent     : 256
+Sifted key length   : 114
+Error Rate (QBER)   : 0.00
+Secure Channel Established
+Encrypted Message   : b'gAAAAABqMp87ekIWzTlLA7VwoBLM3_bpC0qwVuHDSdozPxUNFUDvNK9QTmktRARW8oJpDlb8Vs6MHHMI3gT35PVuy8SzeH0FnEarE0iXYy_CwdEx3Pyv048poIsyMzEswezti6S7sFhEWaNGsK_3FHpxJpfAwlhoZQ=='
+Decrypted Message   : Hello Bob, this is a quantum-resilient secure message
