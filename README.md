@@ -5,6 +5,7 @@ A working demonstration of **Quantum Key Distribution (BB84)** combined with **A
 
 It simulates Alice and Bob exchanging qubits over a quantum channel, detects whether an eavesdropper tampered with that exchange, and only encrypts the message if the channel checks out clean.
 
+
 ## Table of contents
 
 
