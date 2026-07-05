@@ -22,6 +22,7 @@ It simulates Alice and Bob exchanging qubits over a quantum channel, detects whe
 
 ## Why this exists
 
+
 Classical key exchange (RSA, Diffie-Hellman) relies on math problems that a sufficiently large quantum computer could eventually break. QKD takes a different approach: the security comes from physics, not computational hardness. Measuring a qubit disturbs it, so any eavesdropper intercepting the key exchange leaves a detectable trace — an elevated error rate between what Alice sent and what Bob received.
 
 This project demonstrates that detection mechanism end to end, and — unlike a lot of toy BB84 demos — actually uses the resulting key to encrypt something, rather than discarding it after the error-rate check.
