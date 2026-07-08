@@ -7,8 +7,6 @@ It simulates Alice and Bob exchanging qubits over a quantum channel, detects whe
 
 
 ## Table of contents
-
-
 - [Why this exists](#why-this-exists)
 - [How it works](#how-it-works)
 - [Quick start](#quick-start)
