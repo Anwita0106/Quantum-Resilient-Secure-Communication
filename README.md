@@ -57,7 +57,7 @@ This runs two scenarios — a clean channel and one with an eavesdropper — and
 ## CLI options
 
 ```bash
-python main.py --message "Custom message" --key-length 512 --threshold 0.11 --seed 42
+python main.py --message "Custom message" --key-length 512 --threshold 0.11 --seed 42  
 ```
 
 | Flag | Default | Description |
