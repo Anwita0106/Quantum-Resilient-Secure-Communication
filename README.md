@@ -2,7 +2,7 @@
 
 A working demonstration of **Quantum Key Distribution (BB84)** combined with **AES encryption**, where the key that comes out of the quantum exchange is the key that actually protects the message — not a separate, unrelated one.
 
-It simulates Alice and Bob exchanging qubits over a quantum channel, detects whether an eavesdropper tampered with that exchange, and only encrypts the message if the channel checks out clean.
+It simulates Alice and Bob exchanging qubits over a quantum channel, detects whether an eavesdropper tampered with that exchange, and only encrypts the message if the channel checks out clean.                                       
 
 
 ## Table of contents
