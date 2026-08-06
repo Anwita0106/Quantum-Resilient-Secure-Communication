@@ -133,6 +133,10 @@ This is a learning/demo project, not a production cryptographic system:
 Illustrative scenarios this kind of architecture is relevant to: financial transactions, quantum-safe messaging, IoT device security, healthcare data transmission, and government/defense communications.
 
 
+
+
+
+
 ---
 
 **Author**  
